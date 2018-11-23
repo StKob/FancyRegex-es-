@@ -1,1 +1,1 @@
-# FancyRegex-es-
+Leading and trailing whitespaces == "((^\\s+)|(\\s+$))"
